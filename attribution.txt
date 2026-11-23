@@ -28,3 +28,8 @@ https://open.canada.ca/en/open-government-licence-canada
 Profile images list creators and rights in their captions and under Sources.
 Flag and code-crosswalk license notices are in the flags directory. Software
 dependency notices are in third-party-licenses.md.
+Lagash, Umma and Gu’edena historical areas adapt Figure 3 by Reed Goodman in
+McMahon et al., Dense urbanism and economic multi-centrism at third-millennium
+BC Lagash (Antiquity, 2023), https://doi.org/10.15184/aqy.2023.36.
+CC BY 4.0, https://creativecommons.org/licenses/by/4.0/.
+The atlas simplified and georeferenced the approximate areas.

@@ -1,0 +1,30 @@
+World · Map data and media credits
+
+The world overview and reference boundaries use public-domain Natural Earth data.
+https://www.naturalearthdata.com/about/terms-of-use/
+
+Close-zoom archives contain data © OpenStreetMap contributors under the Open
+Database License. World extracted and filtered the Protomaps basemap archive
+from 22 November 2026. The Nile Delta includes river lines extracted from
+the same source.
+https://www.openstreetmap.org/copyright
+https://github.com/protomaps/basemaps/blob/main/LICENSE_DATA.md
+https://build.protomaps.com/20261122.pmtiles
+
+Terrain relief uses an unmodified zoom 0–5 tile extract from Mapterhorn.
+https://mapterhorn.com/attribution/
+
+Terrestrial biome polygons are generalized from RESOLVE Ecoregions 2017
+by Dinerstein et al., licensed under Creative Commons Attribution 4.0.
+https://developers.google.com/earth-engine/datasets/catalog/RESOLVE_ECOREGIONS_2017
+https://creativecommons.org/licenses/by/4.0/
+
+The historical Canadian outlines are derived from Natural Resources Canada's
+Territorial Evolution of Canada. Contains information licensed under the Open
+Government Licence – Canada.
+https://open.canada.ca/data/dataset/e88ce995-b69a-4595-a752-bb06b061b5a3
+https://open.canada.ca/en/open-government-licence-canada
+
+Profile images list creators and rights in their captions and under Sources.
+Flag and code-crosswalk license notices are in the flags directory. Software
+dependency notices are in third-party-licenses.md.
